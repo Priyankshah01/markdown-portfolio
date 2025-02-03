@@ -24,7 +24,7 @@
 - Created wireframes, user flows, and high-fidelity mockups using industry-standard tools.
 - Worked on iterative design improvements based on user feedback.
 
-[About me](index) | 
-[Employment](employment) | 
-[Education](education) | 
-[Contact](contact)
+[About me](index.markdown) | 
+[Employment](employment.markdown) | 
+[Education](education.markdown) | 
+[Contact](contact.markdown)
