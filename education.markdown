@@ -6,7 +6,7 @@
 | **Postgraduate Certificate in User Experience Design** | Humber College, Canada | 2024 |
 | **Bachelor's in Information and Technology** | Gujarat Technological University, India | 2022 |
 
-[About me](index) | 
-[Employment](employment) | 
-[Education](education) | 
-[Contact](contact)
+[About me](index.markdown) | 
+[Employment](employment.markdown) | 
+[Education](education.markdown) | 
+[Contact](contact.markdown)
