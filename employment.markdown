@@ -23,3 +23,8 @@
 - Conducted user research and collaborated with developers to ensure feasibility.
 - Created wireframes, user flows, and high-fidelity mockups using industry-standard tools.
 - Worked on iterative design improvements based on user feedback.
+
+[About me](index) | 
+[Employment](employment) | 
+[Education](education) | 
+[Contact](contact)
