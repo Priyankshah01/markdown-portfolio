@@ -23,3 +23,9 @@ I'm a **UI/UX Designer** and **Web Developer** passionate about creating intuiti
 Check out my work: **[GitHub Profile](https://github.com/Priyankshah01)**
                   **[Behance Profile](https://www.behance.net/priyankshah0101)**
                   **[UX Portfolio](https://priyankshah0101.wixstudio.com/portfolio)**
+
+
+[About me](index) | 
+[Employment](employment) | 
+[Education](education) | 
+[Contact](contact)
