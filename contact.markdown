@@ -19,7 +19,7 @@ Check out my work:        **[Behance Profile](https://www.behance.net/priyanksha
                   **[UX Portfolio](https://priyankshah0101.wixstudio.com/portfolio)**
 
 
-[About me](index) | 
-[Employment](employment) | 
-[Education](education) | 
-[Contact](contact)
+[About me](index.markdown) | 
+[Employment](employment.markdown) | 
+[Education](education.markdown) | 
+[Contact](contact.markdown)
